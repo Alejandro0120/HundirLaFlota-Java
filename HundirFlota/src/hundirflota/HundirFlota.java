@@ -8,11 +8,15 @@ package hundirflota;
 import java.util.Scanner;
 
 /**
- *
+ * En esta clase HundirFlota esta el main
  * @author Alejandro Gonzalez y Raúl dino
  */
 public class HundirFlota {
- 
+    /**
+     * En el main se crea el Tablero con un tamaño, donde colocar el barco, donde 
+     * dispara y si has ganado o has perdido
+     * @param args 
+     */
     public static void main(String[] args) {
         String[][] tabla = null;
         Scanner sn = new Scanner(System.in);
