@@ -8,7 +8,7 @@ package hundirflota;
 import java.util.Scanner;
 
 /**
- *
+ * En esta clase Tablero se hace todo lo relacionado con el tablero
  * @author Alejandro Gonzalez y Raúl dino
  */
 public class Tablero {
